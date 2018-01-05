@@ -1,0 +1,6 @@
+demo/Service/impl/SupplyLocationServiceImpl.class
+demo/rest/SupplyLocationRestController.class
+demo/Service/SupplyLocationService.class
+demo/domain/SupplyLocationRepository.class
+demo/SupplyLocationServiceApplication.class
+demo/domain/SupplyLocation.class
